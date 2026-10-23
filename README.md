@@ -38,3 +38,5 @@ JSON-LD schema, sitemap.xml and robots.txt included.
 - [ ] Social profile URLs in `lib/site.js` (`social`)
 - [ ] Lawyer review of Privacy Policy, Terms, Payment & Refund Policy
 - [ ] Test every form end to end once the webhook is connected
+
+.
